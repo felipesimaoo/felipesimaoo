@@ -7,4 +7,5 @@ Minha jornada na computação começou muito cedo, desde pequeno comecei a mexer
 
 # 💻 Stack
 
-![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
