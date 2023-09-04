@@ -1,6 +1,5 @@
 # 👨‍💻 Felipe Simão
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/felipe-sim%C3%A3o-644388274/)])
 
 ## Oi, tudo bem?!
 
